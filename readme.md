@@ -1,5 +1,6 @@
 [MD Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-# [W5100S-EVB-Pico | WIZnet Document System](https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico)
+# W5100S-EVB-Pico 
+[WIZnet Document System](https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico)
 
 prve pripojenie
 - stiahnut z [circuitpython.org](https://circuitpython.org/board/wiznet_w5100s_evb_pico/) .uf2 subor
@@ -32,7 +33,7 @@ Spinace pripajaju zem, preto vstupy su digitalio.Pull.UP
 Problem je max socket len 2, nevie obsluzit viac html klientov
 
 Piny:
-![schema][https://github.com/qqBofi/rolety/blob/master/doc/w5100s-evb-pico-1.1-pinout.png]
+![schema](https://github.com/qqBofi/rolety/blob/master/doc/w5100s-evb-pico-1.1-pinout.png "Piny")
 
 ```python
 s = "Python syntax highlighting"
