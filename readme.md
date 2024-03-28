@@ -29,3 +29,6 @@ Zapojenie pinov:
 Spinace pripajaju zem, preto vstupy su digitalio.Pull.UP
 
 Problem je max socket len 2, nevie obsluzit viac html klientov
+
+Piny:
+![schema][https://github.com/qqBofi/rolety/blob/master/doc/w5100s-evb-pico-1.1-pinout.png]
