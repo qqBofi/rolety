@@ -36,6 +36,7 @@ Piny:
 ![schema](https://github.com/qqBofi/rolety/blob/master/doc/w5100s-evb-pico-1.1-pinout.png "Piny")
 
 ```python
+# priklad kodu v MD
 s = "Python syntax highlighting"
 print s
 ```
