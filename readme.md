@@ -1,3 +1,4 @@
+[MD Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 # [W5100S-EVB-Pico | WIZnet Document System](https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico)
 
 prve pripojenie
@@ -32,3 +33,8 @@ Problem je max socket len 2, nevie obsluzit viac html klientov
 
 Piny:
 ![schema][https://github.com/qqBofi/rolety/blob/master/doc/w5100s-evb-pico-1.1-pinout.png]
+
+```python
+s = "Python syntax highlighting"
+print s
+```
