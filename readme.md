@@ -1,3 +1,13 @@
+# [W5100S-EVB-Pico | WIZnet Document System](https://docs.wiznet.io/Product/iEthernet/W5100S/w5100s-evb-pico)
+
+prve pripojenie
+- stiahnut z [circuitpython.org](https://circuitpython.org/board/wiznet_w5100s_evb_pico/) .uf2 subor
+- stlacit a drzat BOOTSEL (blizsie ku konektoru) a pripojit USB
+- urobi to novy drive CIRCUITPY
+- do neho skopirovat uf2 subor
+- hotovo, uz len nakopirovat lib a programy
+
+
 Zapojenie pinov:
 
 * 1  GP0 lavy vypinac hore
